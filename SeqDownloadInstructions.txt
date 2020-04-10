@@ -1,0 +1,9 @@
+Amplicon Sequences download Instructions
+
+1) Go to https://seabass.gsfc.nasa.gov/investigator/Giovannoni,%20Stephen
+
+2) Click the blue [search] button
+
+3) Check the "Include all associated files" box.
+
+4) Click download all
